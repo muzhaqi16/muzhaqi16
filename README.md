@@ -1,4 +1,6 @@
-### Hi there 👋
+### Intro 
+
+Hi there 👋
 
 I'm Tani, a full-stack web developer from Philly. 
 
@@ -8,7 +10,16 @@ It looks like you landed on my GitHub profile. Since you are already here check 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:artanmuzhaqi@gmail.com)](mailto:artanmuzhaqi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/amuzhaqi/)](https://www.instagram.com/amuzhaqi/)
 
-
+## Stack 
+<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
+<code><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><br><br></code> 
 
 <!--
 **muzhaqi16/muzhaqi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

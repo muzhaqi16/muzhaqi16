@@ -22,4 +22,5 @@ It looks like you landed on my GitHub profile. Since you are already here check 
 - ⚡ Fun fact: ...
 -->
 
-
+### Stats
+![muzhaqi16's stats](https://github-readme-stats.vercel.app/api?username=muzhaqi16&show_icons=true)

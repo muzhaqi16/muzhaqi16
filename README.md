@@ -1,4 +1,6 @@
-### Intro ![](https://komarev.com/ghpvc/?username=muzhaqi16&color=blue)
+### Intro 
+
+![](https://komarev.com/ghpvc/?username=muzhaqi16&color=blue)
 
 Hi there 👋
 

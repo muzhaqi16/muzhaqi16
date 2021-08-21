@@ -1,5 +1,7 @@
 ### Intro 
 
+![](https://komarev.com/ghpvc/?username=muzhaqi16&color=blue)
+
 Hi there 👋
 
 I'm Tani, a full-stack web developer from Philly. 

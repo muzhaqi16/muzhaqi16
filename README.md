@@ -10,7 +10,6 @@ It looks like you landed on my GitHub profile. Since you are already here check 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artan-muzhaqi/)](https://www.linkedin.com/in/artan-muzhaqi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:artanmuzhaqi@gmail.com)](mailto:artanmuzhaqi@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/amuzhaqi/)](https://www.instagram.com/amuzhaqi/)
 
 ## Stack 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
